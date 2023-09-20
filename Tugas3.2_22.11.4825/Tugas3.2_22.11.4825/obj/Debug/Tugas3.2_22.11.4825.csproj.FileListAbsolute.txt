@@ -1,0 +1,11 @@
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\bin\Debug\Tugas3.2_22.11.4825.exe.config
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\bin\Debug\Tugas3.2_22.11.4825.exe
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\bin\Debug\Tugas3.2_22.11.4825.pdb
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.csproj.AssemblyReference.cache
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.csproj.SuggestedBindingRedirects.cache
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3._2_22._11._4825.frmLatihanTiga3.resources
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3._2_22._11._4825.Properties.Resources.resources
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.csproj.GenerateResource.cache
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.exe
+D:\Semester 3\Pemograman Lanjutan\Tugas Minggu 3\Tugas3.2_22.11.4825\Tugas3.2_22.11.4825\obj\Debug\Tugas3.2_22.11.4825.pdb

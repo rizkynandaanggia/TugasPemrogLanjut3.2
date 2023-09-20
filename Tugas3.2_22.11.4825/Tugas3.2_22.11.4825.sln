@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas3.2_22.11.4825", "Tugas3.2_22.11.4825\Tugas3.2_22.11.4825.csproj", "{AAEFE071-6BDC-451A-AB2D-35DF4FFBA36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEFE071-6BDC-451A-AB2D-35DF4FFBA36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEFE071-6BDC-451A-AB2D-35DF4FFBA36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEFE071-6BDC-451A-AB2D-35DF4FFBA36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEFE071-6BDC-451A-AB2D-35DF4FFBA36A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0920E68-ABC8-45E1-B94E-F206906C335A}
+	EndGlobalSection
+EndGlobal
